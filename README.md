@@ -15,8 +15,13 @@ yarn dev
 When the server is running, open your browser at http://localhost:3333/, read the info.
 
 ## Insomnia 
-To test the API, click on this button to open the worspace at Insomnia (make sure that you have it installed).
-<a href="https://insomnia.rest/run/?label=Backend%20Test%20-LinkApi&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoAndrade777%2FtestBackend-LinkApi%2Fmain%2FInsomnia_2021-02-12" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+To test the API, click on this button to open the worspace at Insomnia (make sure that you have it installed). Open Insomnia, click at Workspace → `Import/Export` →  
+`Data` → `From Clipboard` → copy and paste the content below. Or click at Workspace → `Import/Export` →  
+`Import Data` → `From File` → select the file `Insomnia_2021-02-12.json`
+
+<h1 align='center'>
+    <a href="https://insomnia.rest/run/?label=Backend%20Test%20-LinkApi&uri=https%3A%2F%2Fraw.githubusercontent.com%2FdiegoAndrade777%2FtestBackend-LinkApi%2Fmain%2FInsomnia_2021-02-12" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</h1>
 
 ## Technologies
 - [NodeJs](https://nodejs.org/en/)
