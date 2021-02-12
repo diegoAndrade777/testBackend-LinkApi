@@ -16,6 +16,7 @@ When the server is running, open your browser at http://localhost:3333/, read th
 
 ## Insomnia 
 To test the API, click on this button to open the worspace at Insomnia (make sure that you have it installed).
+<a href="https://insomnia.rest/run/?label=Backend%20Test%20-LinkApi&uri=https%3A%2F%2Fgithub.com%2FdiegoAndrade777%2FtestBackend-LinkApi%2Fblob%2Fmain%2FInsomnia_2021-02-12" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 
 ## Technologies
 - [NodeJs](https://nodejs.org/en/)
