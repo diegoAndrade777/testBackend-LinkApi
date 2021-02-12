@@ -8,7 +8,7 @@
 Make sure that you have [Yarn](https://yarnpkg.com/) or [Npm](https://www.npmjs.com/), [NodeJs](https://nodejs.org/en/), [Insomnia](https://insomnia.rest/download/) and [MongoDB Compass](https://www.mongodb.com/products/compass) (optional) installed on your computer.
 Clone this project, to install the dependencies execute:
 ```bash
-cd testBackendLinkApi
+cd testBackend-LinkApi
 yarn
 yarn dev
 ```
