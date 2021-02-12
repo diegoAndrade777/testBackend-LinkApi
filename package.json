@@ -1,0 +1,29 @@
+{
+  "name": "test-backend-linkapi",
+  "version": "1.0.0",
+  "main": "./src/server.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "Diego Andrade",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gerador-validador-cpf": "^4.0.1",
+    "jsontoxml": "^1.0.1",
+    "mongoose": "^5.9.15"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-prettier": "^3.1.3",
+    "nodemon": "^2.0.2",
+    "prettier": "^2.0.5"
+  }
+}
